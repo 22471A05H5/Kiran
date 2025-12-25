@@ -90,7 +90,7 @@ const AboutSection = () => {
         >
           <div>
             <p className="font-heading text-4xl md:text-5xl text-foreground text-glow">
-              50+
+              20+
             </p>
             <p className="mt-2 text-sm text-muted-foreground font-body uppercase tracking-wider">
               Projects
@@ -98,10 +98,10 @@ const AboutSection = () => {
           </div>
           <div>
             <p className="font-heading text-4xl md:text-5xl text-foreground text-glow">
-              3+
+              6+
             </p>
             <p className="mt-2 text-sm text-muted-foreground font-body uppercase tracking-wider">
-              Years
+              Months
             </p>
           </div>
           <div>
